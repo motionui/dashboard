@@ -1,0 +1,14 @@
+.summary {
+    width: 200px;
+    text-align: center;
+}
+
+.title {
+    margin: 0 0 8px 0;
+    font-size: .875em;
+    font-weight: normal;
+}
+
+.metric {
+    font-size: 1.5em;
+}
